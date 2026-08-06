@@ -1,6 +1,6 @@
 # Distributed Job Queue
 
-A production-grade, highly scalable background job processing system built with **Node.js**, **Express**, **BullMQ**, **Redis**, and **PostgreSQL**.
+A production grade, highly scalable background job processing system built with **Node.js**, **Express**, **BullMQ**, **Redis**, and **PostgreSQL**.
 
 Traditional synchronous APIs struggle under long-running or burst-heavy workloads. This project explores how distributed queue systems improve scalability, reliability, and throughput using asynchronous processing patterns.
 
