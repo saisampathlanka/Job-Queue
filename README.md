@@ -12,7 +12,7 @@ The system was benchmarked under concurrent queued workloads with a focus on thr
 
 ## 💭 Key Engineering Concepts
 
-• Distributed queues • Async processing • Worker orchestration • Concurrent job execution • Retry strategies • Dead-letter queues • Queue reconciliation • Rate limiting • Backpressure handling • Structured logging • Operational monitoring • Reliability engineering
+• Distributed Queues • Async Processing • Worker Orchestration • Concurrent Job Execution • Retry Strategies • Dead-Letter Queues • Queue Reconciliation • Rate Limiting • Backpressure Handling • Structured Logging • Operational Monitoring • Reliability Engineering
 
 ## 🏛️ Architecture Explanation
 
